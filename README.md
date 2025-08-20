@@ -10,5 +10,5 @@ This project is an executive finance report showing the total profit and sales m
 3. Profit Trends by Month
 4. Sales Trend by product and Segments.
 
-# This project was built to sharpen my analytics workflow from raw data to visual storytelling.
+This project was built to sharpen my analytics workflow from raw data to visual storytelling.
 
